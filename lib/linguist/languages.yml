@@ -1907,6 +1907,14 @@ FIGlet Font:
   tm_scope: source.figfont
   ace_mode: text
   language_id: 686129783
+Flix:
+  type: programming
+  color: "#d44a45"
+  extensions:
+  - ".flix"
+  tm_scope: source.flix
+  ace_mode: text
+  language_id: 800935960
 FLUX:
   type: programming
   color: "#88ccff"
