@@ -1266,6 +1266,9 @@
 [submodule "vendor/grammars/vscode-euphoria"]
 	path = vendor/grammars/vscode-euphoria
 	url = https://github.com/OpenEuphoria/vscode-euphoria
+[submodule "vendor/grammars/vscode-flix"]
+	path = vendor/grammars/vscode-flix
+	url = https://github.com/flix/vscode-flix.git
 [submodule "vendor/grammars/vscode-fluent"]
 	path = vendor/grammars/vscode-fluent
 	url = https://github.com/macabeus/vscode-fluent
@@ -1401,6 +1404,3 @@
 [submodule "vendor/grammars/zephir-sublime"]
 	path = vendor/grammars/zephir-sublime
 	url = https://github.com/phalcon/zephir-sublime
-[submodule "vendor/grammars/vscode-flix"]
-	path = vendor/grammars/vscode-flix
-	url = https://github.com/flix/vscode-flix.git
