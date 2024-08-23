@@ -1401,3 +1401,6 @@
 [submodule "vendor/grammars/zephir-sublime"]
 	path = vendor/grammars/zephir-sublime
 	url = https://github.com/phalcon/zephir-sublime
+[submodule "vendor/grammars/vscode-flix"]
+	path = vendor/grammars/vscode-flix
+	url = https://github.com/flix/vscode-flix.git
